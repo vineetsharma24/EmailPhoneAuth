@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "296848697348",
+    "project_id": "emailandphoneauthentication",
+    "storage_bucket": "emailandphoneauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296848697348:android:787a1c3a761227f454ad51",
+        "android_client_info": {
+          "package_name": "com.example.emailandphoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296848697348-heus7b50itg6ru6qlvmh90qar1fkpvju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPtrvP2nAJWGSK_wbrVhfjn-inyBSs7AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296848697348-heus7b50itg6ru6qlvmh90qar1fkpvju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296848697348:android:9eac63249361c96254ad51",
+        "android_client_info": {
+          "package_name": "com.example.emailphoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296848697348-heus7b50itg6ru6qlvmh90qar1fkpvju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPtrvP2nAJWGSK_wbrVhfjn-inyBSs7AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296848697348-heus7b50itg6ru6qlvmh90qar1fkpvju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
